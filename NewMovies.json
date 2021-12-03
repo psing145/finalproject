@@ -2,10 +2,10 @@
   "HikingTrails":
   [
     {"MovieName":"Inception","Movie Description":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.","MoviePlatform":"Netflix","MovieGenre":"Genre: Adventure/Action/SciFi","MovieImage":"inception.jpg","MovieTime":"2h:28min","MovieYear":"2010","MovieSite":"https://www.imdb.com/title/tt1375666/?ref_=ttpl_pl_tt"},
-    {"MovieName":"The Call","Movie Description":"","MoviePlatform":"","MovieGenre":"","MovieImage":"","MovieTime":"","MovieYear":"","MovieSite":""},
-    {"MovieName":"","Movie Description":"","MoviePlatform":"","MovieGenre":"","MovieImage":"","MovieTime":"","MovieYear":"","MovieSite":""},
-    {"MovieName":"","Movie Description":"","MoviePlatform":"","MovieGenre":"","MovieImage":"","MovieTime":"","MovieYear":"","MovieSite":""},
-    {"MovieName":"","Movie Description":"","MoviePlatform":"","MovieGenre":"","MovieImage":"","MovieTime":"","MovieYear":"","MovieSite":""},
+    {"MovieName":"The Call","Movie Description":"","MoviePlatform":"Netflix","MovieGenre":"Genre: Crime/Horror/Mystery","MovieImage":"thecall.jpg","MovieTime":"1h:52min","MovieYear":"2020","MovieSite":""},
+    {"MovieName":"Extraction","Movie Description":"","MoviePlatform":"Netflix","MovieGenre":"Genre: Action/Thriller","MovieImage":"extraction.jpg","MovieTime":"1h:56min","MovieYear":"2020","MovieSite":""},
+    {"MovieName":"Crazy Rich Asians","Movie Description":"","MoviePlatform":"HBO Max","MovieGenre":"Genre: Comedy/Drama/Romance","MovieImage":"crazy.jpg","MovieTime":"2h","MovieYear":"2018","MovieSite":""},
+    {"MovieName":"Ocean's Eight","Movie Description":"","MoviePlatform":"HBO Max","MovieGenre":"Genre: Action/Comedy/Crime","MovieImage":"eight.jpg","MovieTime":"1h:50min","MovieYear":"2018","MovieSite":""},
   ],
   "Status":"OK"
 }
